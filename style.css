@@ -1,0 +1,10 @@
+.titulos{
+    color: darkolivegreen;
+    font-style: italic;
+}
+
+.texto{
+    color: gray;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
